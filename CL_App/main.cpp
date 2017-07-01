@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 #include <QApplication>
+#include "libethash-cl/ethash_cl_miner.h"
 
 int main(int argc, char *argv[])
 {
